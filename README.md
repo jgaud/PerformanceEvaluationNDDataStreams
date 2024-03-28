@@ -1,6 +1,6 @@
-## TBD
+## Prioritizing the Essential: A Robust Evaluation Framework for Novelty Detection
 
-This repository contains the code used in the empirical tests conducted in the paper *"TBD"* [1] as well as supplementary results.
+This repository contains the code used in the empirical tests conducted in the paper *"Prioritizing the Essential: A Robust Evaluation Framework for Novelty Detection"* [1] as well as supplementary results.
 
 This repository is organized as follows:
 * **Figures** folder - contains all of the figures extracted from the experiments;
