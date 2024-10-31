@@ -3,7 +3,7 @@
 This repository contains the code used in the empirical tests conducted in the paper *"Prioritizing the Essential: A Robust Evaluation Framework for Novelty Detection"* [1] as well as supplementary results.
 
 This repository is organized as follows:
-- **Figures** folder - contains all of the figures extracted from the experiments organized by type/dataset/data_characteristic/;
+- **Figures** folder - contains all of the figures extracted from the experiments organized by Type/Dataset/Algorithm/;
 - **Notebooks** folder - contains the Jupyter Notebook used to extract and plot the figures, tables and results;
 - **Scripts** folder - contains the necessary Python scripts to run the experiments on both synthetic and real datasets. Also shows the hyperparameters used in the experiments.
     - hparams_optimization/hparam_optim.py file - script containing the code to launch the hyperparameter optimization on all datasets using a grid search and save the results;
